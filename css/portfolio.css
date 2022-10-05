@@ -1,0 +1,61 @@
+body {
+
+    width: 70%;
+    margin: 0 auto;
+    line-height: 1.5;
+    font-family: Portada, serif;
+	background: #e4e2f2;
+	height: 100%;
+    font-weight: bold;
+}
+ol li {
+    list-style-position: inside;
+    padding-left: 1%;
+    
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(107, 135, 135);
+    font-size: 500%;
+    text-align: center;
+        text-shadow: 2px 2px black;
+}
+
+h2, h3{ 
+    padding: 1%;
+    font-family: Georgia, sans-serif; 
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+
+footer {
+    clear: both;
+    background-color: #e4e2f2;
+    color: black;
+    padding: 1%;
+    margin-top: 5%;
+    
+    
+
+}
+
+
+main section p img#pic2 {
+
+width: 120px;
+height: 150px;
+float: left;
+padding: 0;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+
+}
